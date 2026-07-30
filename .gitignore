@@ -1,0 +1,6 @@
+.DS_Store
+shots/
+*.bak
+index.html.pre-*
+index.html.preclean
+index.html.qbbak
